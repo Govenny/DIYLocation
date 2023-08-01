@@ -1,5 +1,5 @@
 # DIYLocation
-虚拟定位，免root，基于太极框架，Android操作指南
+虚拟定位，免root，基于太极框架，Android操作指南，长期不失效
 
 内容详情
 背景：`FakeLocation`其实很好用，但是需要root/开会员才能避开企业微信钉钉，这类检查比较严格的软件。
